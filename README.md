@@ -1,5 +1,5 @@
 # garagedoorsensor
-Wifi sensor with mqtt feature to send garage door opened
+Wifi sensor with mqtt feature to send garage door open status
 
 With platformIO as toolbox
 
